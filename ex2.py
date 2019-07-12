@@ -1,5 +1,5 @@
 a = float(input())
 if a >= 0:
-	print("It is positive")
+	print("positive")
 else:
-	print("It is invalid")
+	print("invalid")
